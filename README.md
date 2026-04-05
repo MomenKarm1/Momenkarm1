@@ -44,7 +44,6 @@
 ###
 <div align="center">
 </div>
+<img src="https://raw.githubusercontent.com/MomenKarm1/MomenKarm1/output/snake.svg" alt="Snake animation" />
+
 ###
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ac/f0/59/acf059f2c4b4f7b4d30acb8d2a7e9f6f.gif" height="100" alt="pacman" />
-</div>
