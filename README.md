@@ -42,8 +42,12 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 ###
-<div align="center">
-</div>
 <img src="https://raw.githubusercontent.com/MomenKarm1/MomenKarm1/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MomenKarm1/MomenKarm1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MomenKarm1/MomenKarm1/output/github-contribution-grid-snake.svg">
+  <img alt="snake game" src="https://raw.githubusercontent.com/MomenKarm1/MomenKarm1/output/github-contribution-grid-snake.svg">
+</picture>
