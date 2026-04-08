@@ -18,10 +18,9 @@
 ### ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,java,py,aws,mysql,r,scala,rust" />
-  <br><br>
-  <img src="https://img.icons8.com/color/60/microsoft-excel-2019--v1.png" height="50"/>
-  <img src="https://img.icons8.com/color/60/power-bi.png" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,java,py,aws,mysql,r,scala,rust" height="40" />
+  <img src="https://img.icons8.com/color/60/microsoft-excel-2019--v1.png" height="40"/>
+  <img src="https://img.icons8.com/color/60/power-bi.png" height="40"/>
 </div>
 
 ---
