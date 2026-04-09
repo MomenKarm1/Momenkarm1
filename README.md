@@ -24,7 +24,14 @@
   <img src="https://img.icons8.com/color/60/davinci-resolve.png" height="40"/>
 </div>
 
----
+<h2 align="left">🚀 My Projects</h2>
+
+<div align="left">
+  <a href="[[YOUR_LINK_HERE](https://github.com/MomenKarm1/Sales-Data-Project)]">
+    <img src="https://img.shields.io/badge/Sales%20Data%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 
 ### 📊 What I Work With
 - 📌 Data Analysis (Excel, Power BI, Python)
