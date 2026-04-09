@@ -3,7 +3,7 @@
 
 <p align="center">
   🚀 Passionate about Data, AI, and building impactful solutions  
-  📊 Turning data into insights & ideas into reality  
+  📊 Turning data into insights & ideas into reality
 </p>
 
 ---
@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,java,py,aws,mysql,r,scala,rust" height="40" />
   <img src="https://img.icons8.com/color/60/microsoft-excel-2019--v1.png" height="40"/>
   <img src="https://img.icons8.com/color/60/power-bi.png" height="40"/>
+  <img src="https://img.icons8.com/color/60/davinci-resolve.png" height="40"/>
 </div>
 
 ---
@@ -33,10 +34,8 @@
 
 ---
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
