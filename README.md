@@ -27,7 +27,7 @@
 <h2 align="left">🚀 My Projects</h2>
 
 <div align="left">
-  <a href="[https://github.com/MomenKarm1/Sales-Data-Project]">
+  <a href="https://github.com/MomenKarm1/Sales-Data-Project">
     <img src="https://img.shields.io/badge/Sales%20Data%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
