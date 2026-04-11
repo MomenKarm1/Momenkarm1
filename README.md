@@ -21,14 +21,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,py,aws,mysql,r" height="40" />
   <img src="https://img.icons8.com/color/60/microsoft-excel-2019--v1.png" height="40"/>
   <img src="https://img.icons8.com/color/60/power-bi.png" height="40"/>
-  <h3 align="left">Python libraries</h3>
-  1. Pandas
-
-
-  2. NumPy
-
-    
-  3. Streamlit
 </div>
 
 <h2 align="left">🚀 My Projects</h2>
