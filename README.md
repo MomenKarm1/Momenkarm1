@@ -18,10 +18,17 @@
 ### ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,aws,mysql,r" height="40" />
-  <img src="https://img.icons8.com/color/60/microsoft-excel-2019--v1.png" height="40"/>
-  <img src="https://img.icons8.com/color/60/power-bi.png" height="40"/>
-</div>
+  <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge" />
+</p>
 
 <h2 align="left">🚀 My Projects</h2>
 
